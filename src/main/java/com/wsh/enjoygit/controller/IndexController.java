@@ -8,7 +8,7 @@ public class IndexController {
 
     @RequestMapping("/")
     public String index(){
-        return "hello git! master";
+        return "hello git! v0.7 -merge合并分支处理";
     }
 
 
